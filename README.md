@@ -1,4 +1,4 @@
-# Prepress Preparation for Healthcare Packaging
+# Prepress Simulation Project: Healthcare Packaging
 
 ## Project Overview
 This project demonstrates an end-to-end **prepress workflow** for healthcare folding carton packaging. It focuses on reviewing customer-supplied artwork, identifying and correcting prepress issues, and producing a **print-ready PDF** following industry standards.
