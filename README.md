@@ -46,11 +46,12 @@ The project simulates receiving a **customer digital file** and preparing it for
 ---
 
 ## Deliverables
-1. `customer_files/healthcare_carton_original.pdf` – simulated customer-supplied file
-2. `prepress_review/preflight_issues_report.md` – identified issues
-3. `prepress_review/corrections_log.md` – corrections applied
-4. `production_files/healthcare_carton_print_ready.pdf` – print-ready PDF
-5. `production_files/export_settings_notes.md` – PDF/X export settings
-6. `proofs/soft_proof_review.md` – soft proof review
-7. `documentation/prepress_workflow_summary.md` – workflow explanation
+
+- [customer_files/healthcare_carton_original.pdf](customer_files/healthcare_carton_original.pdf) – simulated customer-supplied file  
+- [prepress_review/preflight_issues_report.md](prepress_review/preflight_issues_report.md) – identified issues  
+- [prepress_review/corrections_log.md](prepress_review/corrections_log.md) – corrections applied  
+- [production_files/healthcare_carton_print_ready.pdf](production_files/healthcare_carton_print_ready.pdf) – print-ready PDF  
+- [production_files/export_settings_notes.md](production_files/export_settings_notes.md) – PDF/X export settings  
+- [proofs/soft_proof_review.md](proofs/soft_proof_review.md) – soft proof review  
+- [documentation/prepress_workflow_summary.md](documentation/prepress_workflow_summary.md) – workflow explanation
 
