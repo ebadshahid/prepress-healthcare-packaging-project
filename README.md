@@ -21,11 +21,10 @@ The project simulates receiving a **customer digital file** and preparing it for
 ## Tools & Technologies
 - **Adobe InDesign** – layout, bleed, preflight, PDF/X export
 - **Adobe Acrobat Pro** – PDF preflight, production validation
-- **Adobe Illustrator (awareness)** – vector/dieline edits if required
-- **Adobe Photoshop (awareness)** – image color correction or retouch
+- **Adobe Illustrator** – vector/dieline edits if required
+- **Adobe Photoshop** – image color correction or retouch
 - **CMYK Color Management**
 - **PDF/X Standards**
-- **Python (optional)** – for generating simulated customer PDF
 
 ---
 
