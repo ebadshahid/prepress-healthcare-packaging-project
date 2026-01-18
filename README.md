@@ -55,9 +55,3 @@ The project simulates receiving a **customer digital file** and preparing it for
 6. `proofs/soft_proof_review.md` – soft proof review
 7. `documentation/prepress_workflow_summary.md` – workflow explanation
 
----
-
-## Author
-Ebad Shahid
-
----
