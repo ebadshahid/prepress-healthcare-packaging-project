@@ -1,9 +1,8 @@
-# Corrections Log
+## Corrections Log
 
-- Converted document from RGB → CMYK
-- Added 0.125 inch bleed on all sides
-- Replaced low-resolution images with 300 DPI or higher
-- Embedded all fonts
-- Added crop and registration marks
-- Performed preflight validation in InDesign with no remaining errors
-- Confirmed awareness of Illustrator/Photoshop for vector and image adjustments if needed
+- Reviewed document for text layout, spacing, and panel alignment
+- Verified fonts and ensured proper embedding
+- Checked that text is within safe margins (no clipping)
+- Confirmed PDF is ready for prepress workflow
+- Documented awareness of CMYK conversion, bleed, crop marks, and image adjustments if needed in InDesign/Illustrator
+
